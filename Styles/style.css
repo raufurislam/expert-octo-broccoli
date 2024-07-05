@@ -1,13 +1,15 @@
 .parent {
   padding: 25px;
   background-color: blanchedalmond;
+  display: flex;
   border-radius: 20px;
+  gap: 15px;
+  justify-content: space-evenly;
 }
 .child {
-  border: 2px solid rgb(15, 158, 160);
+  border: 2px solid rgb(15, 158, 168);
   background-color: rgb(178, 228, 229);
-  padding: 20px;
-  font-size: 28px;
-  margin: 10px;
+  padding: 15px;
+  font-size: 28;
   border-radius: 10px;
 }
