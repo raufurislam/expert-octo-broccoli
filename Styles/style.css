@@ -1,0 +1,13 @@
+.parent {
+  padding: 25px;
+  background-color: blanchedalmond;
+  border-radius: 20px;
+}
+.child {
+  border: 2px solid rgb(15, 158, 160);
+  background-color: rgb(178, 228, 229);
+  padding: 20px;
+  font-size: 28px;
+  margin: 10px;
+  border-radius: 10px;
+}
